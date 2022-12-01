@@ -1,6 +1,6 @@
 # React Typescript searchbar for US universities
 
-I did not upload this to netlify, cause the api I use is uses http only.
+I did not upload this to netlify, cause the api I use has no ssl certificate (only http).
 
 ## Screenshots
 ![ScreenShot](./screenshots/basic-showLess.PNG)
